@@ -76,8 +76,8 @@ namespace Vlad3D
                         Console.Write(cells[x, y] + " ");
                         Console.ForegroundColor = mapColor;
                     }
-
-                    Console.SetCursorPosition(Console.CursorLeft, Console.CursorTop + 1);
+                    
+                    Console.Write(cells[x, y] + " ");
                 }
 
                 Console.Write("\n");
@@ -95,7 +95,7 @@ namespace Vlad3D
                     Console.Write(cells[x, y] + " ");
                 }
 
-                Console.SetCursorPosition(Console.CursorLeft, Console.CursorTop + 1);
+                Console.Write("\n");
             }
         }
 
