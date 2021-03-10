@@ -1,0 +1,13 @@
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\obj\Debug\netcoreapp3.1\Vlad3D.csprojAssemblyReference.cache
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\obj\Debug\netcoreapp3.1\Vlad3D.AssemblyInfoInputs.cache
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\obj\Debug\netcoreapp3.1\Vlad3D.AssemblyInfo.cs
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\obj\Debug\netcoreapp3.1\Vlad3D.csproj.CoreCompileInputs.cache
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\bin\Debug\netcoreapp3.1\Vlad3D.exe
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\bin\Debug\netcoreapp3.1\Vlad3D.deps.json
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\bin\Debug\netcoreapp3.1\Vlad3D.runtimeconfig.json
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\bin\Debug\netcoreapp3.1\Vlad3D.runtimeconfig.dev.json
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\bin\Debug\netcoreapp3.1\Vlad3D.dll
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\bin\Debug\netcoreapp3.1\Vlad3D.pdb
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\obj\Debug\netcoreapp3.1\Vlad3D.dll
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\obj\Debug\netcoreapp3.1\Vlad3D.pdb
+C:\Users\Dungeon Master\source\repos\Vlad3D\Vlad3D\obj\Debug\netcoreapp3.1\Vlad3D.genruntimeconfig.cache
